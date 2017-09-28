@@ -59,6 +59,7 @@ public class tempConvers
 			
 			System.out.println("Thank you & have a nice day.");
 			System.out.println("Github update test.\n");
+			System.out.println("Github update test 2. »);
 		}
 		
 	}
