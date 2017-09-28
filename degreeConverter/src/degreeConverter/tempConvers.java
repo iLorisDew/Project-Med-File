@@ -58,6 +58,7 @@ public class tempConvers
 			}while(rep != 'O' && rep !='N');
 			
 			System.out.println("Thank you & have a nice day.");
+			System.out.println("Github update test.\n");
 		}
 		
 	}
